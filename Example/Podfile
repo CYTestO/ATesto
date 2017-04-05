@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Atesto_Example' do
+  pod 'Atesto', :path => '../'
+
+  target 'Atesto_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
