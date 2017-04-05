@@ -1,0 +1,6 @@
+framework module Atesto {
+  umbrella header "Atesto-umbrella.h"
+
+  export *
+  module * { export * }
+}

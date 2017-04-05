@@ -7,6 +7,7 @@
 //
 
 #import "AViewController.h"
+#import <Atesto/ATestViewController.h>
 
 @interface AViewController ()
 

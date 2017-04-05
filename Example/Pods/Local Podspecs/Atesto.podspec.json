@@ -1,0 +1,24 @@
+{
+  "name": "Atesto",
+  "version": "0.1.0",
+  "summary": "lalala",
+  "description": "hahaha",
+  "homepage": "https://github.com/Ebbbb/Atesto",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ebbbb": "caiyuan@chinamcloud.com"
+  },
+  "source": {
+    "git": "https://github.com/Ebbbb/Atesto.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Atesto/Classes/**/*",
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Atesto (0.1.0)
+
+DEPENDENCIES:
+  - Atesto (from `../`)
+
+EXTERNAL SOURCES:
+  Atesto:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Atesto: 297d1d21a58892070871788c9b38ab86c6fbe9cb
+
+PODFILE CHECKSUM: adddcd46936bd1dd280bef6beda8568bf6de5f95
+
+COCOAPODS: 1.2.1.beta.1
